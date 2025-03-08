@@ -30,16 +30,16 @@ AI (chatGPT4) is heavily utilized during the translation.
 
 ## فهرست
 
-- [پیش‌گفتار مولف](chpaters/chapter0_preface.md)
-- [فصل ۱: مقدمه](chpaters/chapter1.md)
-- [فصل ۲: هدف نرم‌افزار](chpaters/chapter2.md)
-- [فصل ۳: آینده](chpaters/chapter3.md)
-- [فصل ۴:‌ تغییر](chpaters/chapter4.md)
-- [فصل ۵:عیوب و طراحی](chpaters/chapter5.md)
-- [فصل ۶ سادگی](chpaters/chapter6.md)
-- [فصل ۷ پیچیدگی](chpaters/chapter7.md)
-- [فصل ۸: آزمون](chpaters/chapter8.md)
-- [پیوست الف: اصول طراحی نرم‌افزار](chpaters/chapter-appendix-1.md)
-- [پیوست ب: حقایق، اصول، قوانین و تعاریف](chpaters/chapter-appendix-2.md)
+- [پیش‌گفتار مولف](chapters/chapter0_preface.md)
+- [فصل ۱: مقدمه](chapters/chapter1.md)
+- [فصل ۲: هدف نرم‌افزار](chapters/chapter2.md)
+- [فصل ۳: آینده](chapters/chapter3.md)
+- [فصل ۴:‌ تغییر](chapters/chapter4.md)
+- [فصل ۵:عیوب و طراحی](chapters/chapter5.md)
+- [فصل ۶ سادگی](chapters/chapter6.md)
+- [فصل ۷ پیچیدگی](chapters/chapter7.md)
+- [فصل ۸: آزمون](chapters/chapter8.md)
+- [پیوست الف: اصول طراحی نرم‌افزار](chapters/chapter-appendix-1.md)
+- [پیوست ب: حقایق، اصول، قوانین و تعاریف](chapters/chapter-appendix-2.md)
 
 
