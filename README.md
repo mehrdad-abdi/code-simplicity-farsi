@@ -1,5 +1,6 @@
 # code-simplicity-farsi
-A persian translation for the book **Code Simplicity: The Fundamentals of Software** by *Max Kanat-Alexander*.
+
+A Persian translation for the book **Code Simplicity: The Fundamentals of Software** by *Max Kanat-Alexander*.
 
 The original book is accessible from https://www.codesimplicity.com/book/
 
